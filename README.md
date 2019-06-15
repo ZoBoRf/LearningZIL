@@ -1,6 +1,6 @@
 # Learning ZIL (by Steven Eric Meretzky (SEM)
 ### - or -
-## Everything You Always Wanted to Know About Writing Interactive Fiction But Couldnt Find Anyone Still Working Here to Ask
+## Everything You Always Wanted to Know About Writing Interactive Fiction But Couldn't Find Anyone Still Working Here to Ask
 
 This is a transcription of Meretzky's original document on "Learning ZIL".
 
