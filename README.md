@@ -1,4 +1,4 @@
-# Learning ZIL (by Steven Eric Meretzky (SEM)
+# Learning ZIL - by Steven Eric Meretzky (SEM)
 ### - or -
 ## Everything You Always Wanted to Know About Writing Interactive Fiction But Couldn't Find Anyone Still Working Here to Ask
 
